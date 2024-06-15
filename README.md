@@ -1,2 +1,2 @@
-# User Permission Management System
-User Permission Management System (UPMS) is a critical component of application security and operational control. It serves as a robust framework for regulating and managing user access within software applications
+# User Permission Management System (UPMS)
+User Permission Management System (UPMS) is an application designed to manage permissions between multiple users for a specific app, not allowing anyone to access all of the opportunities of the said app.

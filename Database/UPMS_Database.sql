@@ -43,7 +43,7 @@ select * from user_tb;
 GO
 select * from permission_tb;
 GO
-insert into title_tb values ('User Permission Management System')
+insert into title_tb values ('User & Permission Management System')
 GO
 insert into role_tb (role_name) 
 values ('Admin');

@@ -6,7 +6,7 @@ User & Permission Management System (UPMS) is an application designed to manage 
 
 - User Manager - Add User, Delete User, Edit User Info
 - Role Manager - Add Role, Delete Role, Edit Role Info
-- Permission Manager - Select Permission, Edit Permission 
+- Permission Manager - Select Permission, Edit Permission to not access anything
 - C# and SQL server only
 
 ## Authors

@@ -10,7 +10,6 @@ namespace UPMS.WindowsFormsApp.UI
     public partial class MainForm : Form
     {
         titleDao td = new titleDao();
-        RoleDao roleDao = new RoleDao();
 
         DataTable dt;
 
@@ -78,7 +77,7 @@ namespace UPMS.WindowsFormsApp.UI
             DataTable rdt = roleDao.GetALL();
             IblTitleName.Text = dataTable.Rows[0][0].ToString();
             IblUsername.Text = dt.Rows[0][2].ToString();
-            IblRoleName.Text = rdt.Rows[1][1].ToString();
+            IblRoleName.Text = dt.Rows[0][6].ToString();
         }
 
         private void timer1_Tick(object sender, EventArgs e)

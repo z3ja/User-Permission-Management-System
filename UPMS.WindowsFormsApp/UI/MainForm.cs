@@ -10,7 +10,7 @@ namespace UPMS.WindowsFormsApp.UI
     public partial class MainForm : Form
     {
         titleDao td = new titleDao();
-
+        RoleDao roleDao = new RoleDao();
         DataTable dt;
 
         public MainForm(DataTable dt)

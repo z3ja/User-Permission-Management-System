@@ -11,7 +11,7 @@ User & Permission Management System (UPMS) is an application designed to manage 
 
 ## Authors
 
-- [@Meerata0](https://github.com/Meerata0)
+- [@Meerata0](https://github.com/z3ja)
 
 ## LICENSE
 
